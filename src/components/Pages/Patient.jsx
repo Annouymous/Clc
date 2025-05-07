@@ -1,9 +1,9 @@
-import React, { useState } from 'react';
-import DietChart from './DietChart'; 
-import {useTranslation} from 'react-i18next';
+import React, { useState } from "react";
+import DietChart from "./DietChart";
+import { useTranslation } from "react-i18next";
 
 const Patient = () => {
-  const {t} = useTranslation();
+  const { t } = useTranslation();
   const [showDietChart, setShowDietChart] = useState(false);
 
   if (showDietChart) {
@@ -15,15 +15,13 @@ const Patient = () => {
       <div
         className="bg-image text-white text-center py-5"
         style={{
-          backgroundImage: "url('src/assets/images/about-empanorm.png')",
-          backgroundSize: 'cover',
-          backgroundPosition: 'center',
+          backgroundImage: "url('/assets/images/about-empanorm.png')",
+          backgroundSize: "cover",
+          backgroundPosition: "center",
         }}
       >
         <div className="container">
-          <h1 className="display-5 fw-bold">
-            {t("patient.title")}
-          </h1>
+          <h1 className="display-5 fw-bold">{t("patient.title")}</h1>
         </div>
       </div>
 
@@ -37,7 +35,7 @@ const Patient = () => {
               onClick={() => setShowDietChart(true)}
             >
               <img
-                src="src/assets/images/diet.png"
+                src="/assets/images/diet.png"
                 alt="Diet Chart"
                 className="img-fluid mb-3"
               />
@@ -48,7 +46,7 @@ const Patient = () => {
           <div className="col-md-6 col-lg-4 mb-3">
             <div className="text-center border rounded p-4 shadow-sm h-100">
               <img
-                src="src/assets/images/dose.png"
+                src="/assets/images/dose.png"
                 alt="Dosage Reminder"
                 className="img-fluid mb-3"
               />
