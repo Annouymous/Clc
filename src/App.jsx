@@ -37,7 +37,6 @@ function App() {
             <Route path="/Medicine" element={<Medicine />} />
           </Routes>
         </main>
-
         <Footer />
       </div>
     </Router>
