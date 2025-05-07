@@ -208,7 +208,7 @@
   },
   "patient": {
     "title": "Register Using Your Phone Number and OTP to Access Dosage",
-    "h1": "ReminderView Diet Chart",
+    "h1": "Diet Chart",
     "h2": "Available Here...",
     "h3": "Dosage Reminder",
     "h4": "Coming Soon..."
@@ -275,8 +275,8 @@
     "reference2": "Summary of product characteristics. Available here.",
     "reference3": "Empagliflozin NHS. Available here."
   },
-  "dietChart":{
-    "title":"View Diet Chart",
-    "Calories":"Calories"
+  "dietChart": {
+    "title": "View Diet Chart",
+    "Calories": "Calories"
   }
 }
