@@ -242,3 +242,4 @@ const DiabetesTab = ({ active }) => {
 };
 
 export default DiabetesTab;
+//Ok
