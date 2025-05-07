@@ -1,0 +1,282 @@
+{
+  "hello": "Hello!",
+  "i am from medicine": "I am from the Medicine page",
+  "nav": {
+    "home": "Home",
+    "knowAbout": "Know about Medicines",
+    "patientSupport": "Patient Support",
+    "medicineAvailability": "Medicine Availability"
+  },
+  "header": {
+    "home": "Home",
+    "knowAboutMedicines": "Know About Medicines",
+    "patientSupport": "Patient Support",
+    "medicineAvailability": "Medicine Availability"
+  },
+  "banner": {
+    "title": "Unlock a Better Tomorrow for Your Health"
+  },
+  "language": {
+    "english": "English",
+    "bengali": "Bengali",
+    "hindi": "Hindi"
+  },
+  "heartFailure": "Heart Failure",
+  "ckdLabel": "CKD",
+  "diabetesLabel": "Diabetes",
+  "ckd": {
+    "title": "Chronic Kidney Disease",
+    "description": [
+      "Chronic kidney disease (CKD) is a long-term condition where the kidneys do not work as well as they should.",
+      "It's a common condition often associated with aging.",
+      "CKD can get worse over time, but many people with CKD live long lives with proper management."
+    ],
+    "symptoms": {
+      "title": "Symptoms of CKD",
+      "description": "There are usually no symptoms of kidney disease in the early stages."
+    },
+    "causes": {
+      "title": "Causes of CKD",
+      "highBloodPressure": "High Blood Pressure",
+      "diabetes": "Diabetes",
+      "highCholesterol": "High Cholesterol",
+      "kidneyInfections": "Kidney Infections",
+      "glomerulonephritis": "Glomerulonephritis",
+      "pkd": "Autosomal Dominant PKD",
+      "urineBlockages": "Urine Flow Blockages",
+      "medicationUse": "Long-Term Medication Use"
+    },
+    "causeDescriptions": {
+      "highBloodPressure": "Over time, this can put strain on the small blood vessels in the kidneys and stop the kidneys working properly.",
+      "diabetes": "Too much glucose in your blood can damage the tiny filters in the kidneys.",
+      "highCholesterol": "This can cause a build-up of fatty deposits in the blood vessels supplying your kidneys.",
+      "kidneyInfections": "Kidney infections are typically caused by bacteria from urinary tract infections or other factors.",
+      "glomerulonephritis": "Glomerulonephritis is an inflammation of the kidneys' filtering units.",
+      "pkd": "An inherited condition where growths called cysts develop in the kidneys.",
+      "urineBlockages": "Blockages in the flow of urine can be caused by kidney stones, tumors, or an enlarged prostate.",
+      "medicationUse": "Long-term use of certain medications can impair kidney function."
+    },
+    "treatments": {
+      "title": "Treatments for CKD",
+      "description": "There's no cure for CKD, but treatment can relieve symptoms and slow progression.",
+      "items": [
+        "Lifestyle changes to maintain health.",
+        "Medications to control blood pressure and cholesterol.",
+        "Dialysis may be required in advanced CKD.",
+        "Kidney transplant may be needed in severe cases."
+      ]
+    },
+    "outlook": {
+      "title": "Outlook For CKD",
+      "items": [
+        "CKD can range from a mild condition with no symptoms to a serious condition where the kidneys stop working.",
+        "Most people with CKD can manage their condition with medicine and check-ups.",
+        "CKD increases the risk of cardiovascular disease.",
+        "Lifestyle changes and medication can help reduce the risk of cardiovascular disease."
+      ]
+    }
+  },
+  "diabetes": {
+    "keyFacts": {
+      "title": "Key Facts",
+      "facts": [
+        "The number of people living with diabetes rose from 200 million in 1990 to 830 million in 2022.",
+        "More than half of people living with diabetes did not take medication for their diabetes in 2022.",
+        "Diabetes causes blindness, kidney failure, heart attacks, stroke, and lower limb amputation.",
+        "In 2021, diabetes and kidney disease due to diabetes caused over 2 million deaths.",
+        "A healthy diet, regular physical activity, and avoiding tobacco use can prevent or delay type 2 diabetes."
+      ]
+    },
+    "overview": {
+      "title": "Overview",
+      "paragraphs": [
+        "Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. Insulin is a hormone that regulates blood glucose. Hyperglycaemia, also called raised blood glucose or raised blood sugar, is a common effect of uncontrolled diabetes and over time leads to serious damage to many of the body's systems, especially the nerves and blood vessels.",
+        "In 2022, 14% of adults aged 18 years and older were living with diabetes, an increase from 7% in 1990. More than half (59%) of adults aged 30 years and over living with diabetes were not taking medication for their diabetes in 2022. Diabetes treatment coverage was lowest in low- and middle-income countries.",
+        "In 2021, diabetes was the direct cause of 1.6 million deaths and 47% of all deaths due to diabetes occurred before the age of 70 years. Another 530,000 kidney disease deaths were caused by diabetes, and high blood glucose causes around 11% of cardiovascular deaths.",
+        "Since 2000, mortality rates from diabetes have been increasing. By contrast, the probability of dying from any one of the four main noncommunicable diseases (cardiovascular diseases, cancer, chronic respiratory diseases, or diabetes) between the ages of 30 and 70 decreased by 20% globally between 2000 and 2019."
+      ]
+    },
+    "symptoms": {
+      "title": "Symptoms Of Diabetes",
+      "paragraphs": [
+        "Symptoms of diabetes may occur suddenly. In type 2 diabetes, the symptoms can be mild and may take many years to be noticed.",
+        "Over time, diabetes can damage blood vessels in the heart, eyes, kidneys, and nerves.",
+        "People with diabetes have a higher risk of health problems including heart attack, stroke, and kidney failure.",
+        "Diabetes can cause permanent vision loss by damaging blood vessels in the eyes.",
+        "Many people with diabetes develop problems with their feet from nerve damage and poor blood flow. This can cause foot ulcers and may lead to amputation."
+      ]
+    },
+    "types": {
+      "title": "Types of Diabetes",
+      "type1": {
+        "title": "Type 1 Diabetes",
+        "description": "Type 1 diabetes is a chronic disease that occurs when the pancreas does not produce enough insulin. Insulin is a hormone that regulates blood glucose. Without sufficient insulin, blood sugar levels can become dangerously high."
+      },
+      "type2": {
+        "title": "Type 2 Diabetes",
+        "description": "Type 2 diabetes affects how your body uses sugar (glucose) for energy. It stops the body from using insulin properly, which can lead to high levels of blood sugar if not treated. Over time, type 2 diabetes can cause serious damage to the body, especially nerves and blood vessels. Type 2 diabetes is often preventable. Factors that contribute to developing type 2 diabetes include being overweight, not getting enough exercise, and genetics. Early diagnosis is important to prevent the worst effects of type 2 diabetes. The best way to detect diabetes early is to get regular check-ups and blood tests with a healthcare provider. Symptoms of type 2 diabetes can be mild. They may take several years to be noticed. Symptoms may be similar to those of type 1 diabetes but are often less marked. As a result, the disease may be diagnosed several years after onset, after complications have already arisen. More than 95% of people with diabetes have type 2 diabetes. Type 2 diabetes was formerly called non-insulin dependent, or adult onset. Until recently, this type of diabetes was seen only in adults but it is now also occurring increasingly frequently in children."
+      }
+    },
+    "gestational": {
+      "title": "Gestational Diabetes",
+      "paragraphs": [
+        "Gestational diabetes is hyperglycaemia with blood glucose values above normal but below those diagnostic of diabetes. Gestational diabetes occurs during pregnancy.",
+        "Women with gestational diabetes are at an increased risk of complications during pregnancy and at delivery. These women and possibly their children are also at increased risk of type 2 diabetes in the future.",
+        "Gestational diabetes is diagnosed through prenatal screening, rather than through reported symptoms."
+      ]
+    },
+    "prevention": {
+      "title": "Prevention",
+      "description1": "Lifestyle changes can prevent or delay type 2 diabetes.",
+      "description2": "To help prevent type 2 diabetes and its complications, people should:",
+      "tips": [
+        {
+          "title": "Maintain a healthy weight"
+        },
+        {
+          "title": "Exercise regularly"
+        },
+        {
+          "title": "Eat a healthy diet"
+        },
+        {
+          "title": "Avoid smoking"
+        }
+      ]
+    },
+    "diagnosis": {
+      "title": "Diagnosis And Treatment",
+      "paragraphs": [
+        "Early diagnosis can be accomplished through relatively inexpensive testing of blood glucose. People with type 1 diabetes need insulin injections for survival.",
+        "One of the most important ways to treat diabetes is to keep a healthy lifestyle.",
+        "Some people with type 2 diabetes will need to take medicines to help manage their blood sugar levels. These can include insulin injections or other medicines.",
+        "Along with medicines to lower blood sugar, people with diabetes often need medications to lower their blood pressure and statins to reduce the risk of complications.",
+        "Additional medical care may be needed to treat the effects of diabetes:"
+      ],
+      "medications": [
+        "Metformin",
+        "Sulfonylureas",
+        "Sodium-glucose co-transporters type 2 (SGLT-2) inhibitors"
+      ],
+      "treat1": "Along with medicines to lower blood sugar, people with diabetes often need medications to lower their blood pressure and statins to reduce the risk of complications.",
+      "treat2": "Additional medical care may be needed to treat the effects of diabetes:",
+      "care1": "Foot Care for Ulcer Treatment",
+      "care2": "Kidney Disease Screening and Treatment",
+      "care3": "Eye Exams for Retinopathy Screening"
+    }
+  },
+  "heart": {
+    "title": "Heart Failure",
+    "description1": "Heart failure is a condition in which the heart cannot handle its workload, leading to tiredness and shortness of breath.",
+    "description2": "The term heart failure makes it sound like the heart is no longer working. In fact, heart failure, sometimes called HF, means the heart is not pumping as well as it should. Congestive heart failure is a type of heart failure that requires timely medical attention, although the two terms are sometimes used interchangeably.",
+    "description3": "Your body relies on the pumping action of the heart to deliver oxygen and nutrient-rich blood to the body's cells. In heart failure, the weakened heart cannot supply enough blood to the cells. This results in tiredness and shortness of breath, and some people also have excessive coughing. Everyday activities such as It may become very difficult to walk, climb stairs, or lift groceries.",
+    "description4": "Heart failure is a serious condition and usually has no cure. But many people with heart failure lead full, enjoyable lives when their condition is managed with heart failure medications and a healthy lifestyle. Support from family and friends who understand your condition is also helpful.",
+    "normalHeart": {
+      "title": "How a Normal Heart Works",
+      "des1": "The heart is a strong, muscular pump that's a little bigger than a fist. Its job is to pump the right amount of blood to all parts of the body. This is called circulation.",
+      "des2": "The right atrium takes deoxygenated blood from the rest of the body and sends it to the lungs through the right ventricle, which oxygenates the blood.",
+      "des3": "Oxygenated blood passes from the lungs to the left atrium, then to the left ventricle, which pumps it to the rest of the body.",
+      "des4": "The heart pumps blood to the lungs and all tissues of the body. All four chambers must beat in harmony for the heart to function properly. A healthy heart has enough pumping capacity to circulate blood properly."
+    },
+    "comparison": {
+      "title": "Heart Health Comparison",
+      "healthyHeart": {
+        "title": "Healthy Heart",
+        "points1": "Effective blood pumping",
+        "points2": "Proper oxygen supply",
+        "points3": "Balanced blood pressure"
+      },
+      "heartFailure": {
+        "title": "Heart failure",
+        "point1": "Reduced pumping capacity",
+        "point2": "Problems with fluid accumulation",
+        "point3": "Shortness of breath"
+      }
+    },
+    "compensation": {
+      "title": "Initial adjustments by the heart",
+      "description": "Your body depends on the pumping action of the heart to deliver oxygen and nutrient-rich blood to the body's cells. In heart failure, the weakened heart cannot deliver enough blood to the cells. This results in fatigue and shortness of breath, and some people also report excessive coughing. Everyday activities such as walking, climbing stairs or lifting groceries become difficult."
+    },
+    "medications": {
+      "title": "The body also tries to compensate in other ways:",
+      "med1": "Blood vessels narrow to keep blood pressure high, trying to compensate for the heart's decreased strength. ",
+      "med2": "The kidneys retain more salt and water instead of excreting it through urine, which increases blood volume and puts more strain on the heart. ",
+      "med3": "Eventually the heart and body simply cannot keep up, and the person experiences fatigue, breathing problems or other symptoms that usually prompt a visit to the doctor. ",
+      "med4": "The body's compensatory mechanisms help explain why some people may not be aware of their condition until many years after their heart has begun to deteriorate. (This is a good reason to have regular check-ups with your doctor.) ",
+      "med5": "The kidneys retain more salt and water rather than excreting it through urine, which increases blood volume and puts more strain on the heart. "
+    }
+  },
+  "patient": {
+    "title": "Register Using Your Phone Number and OTP to Access Dosage",
+    "h1": "ReminderView Diet Chart",
+    "h2": "Available Here...",
+    "h3": "Dosage Reminder",
+    "h4": "Coming Soon..."
+  },
+  "about": {
+    "para": "Getting to know about",
+    "title": "Patient counseling information",
+    "q1": "What is empagliflozin and what conditions is it used for?",
+    "ans1": "Empagliflozin is a medicine that belongs to the sodium glucose co-transporter-2 (SGLT2) inhibitor class and is used for the management of diabetes, heart failure, chronic kidney diseases.",
+    "q2": "What should you know before taking empagliflozin? What warnings and precautions should be considered while using empagliflozin?",
+    "ans2": "Do not take empagliflozin if you are allergic to empagliflozin or any other ingredient of this medicine.",
+    "q3": "Warnings and precautions: Contact a doctor or nearest hospital immediately:",
+    "ans3": "Ketoacidosis: If you have rapid weight loss, feeling sick, stomach upset, Contact your doctor or nearest hospital immediately if you have pain, excessive thirst, rapid and deep breathing, confusion, unusual sleepiness or tiredness, a sweet smell in your breath, a sweet or metallic taste in your mouth, or a different smell in your urine or sweat. ",
+    "l1": "- if you have severe kidney problems",
+    "l2": "- if you have severe liver problems",
+    "l3": "- if you are taking medicines that increase urine output (diuretics) or lower blood pressure",
+    "l4": "- if you are 75 years of age or older",
+    "l5": "- if you have a severe kidney or urinary tract infection and have a fever",
+    "p1": "- if you develop a combination of symptoms of pain, tenderness, redness or swelling of the genitals or the area between the genitals and the anus, along with fever or feeling generally unwell, talk to your doctor immediately. These symptoms may be a sign of a rare but serious or even life-threatening infection called necrotizing fasciitis of the perineum or Fournier gangrene. Fournier gangrene should be treated promptly.",
+    "q4": "Can empagliflozin be used in children and adolescents?",
+    "ans4": "Empagliflozin can be used in children aged 10 years and older for the treatment of type 2 diabetes. No data are available in children younger than 10 years. Empagliflozin is not recommended for children and adolescents aged under 18 years for the treatment of heart failure or chronic kidney disease, as it has not been studied in these patients.",
+    "q5": "What is the dose of empagliflozin?",
+    "ans5": "The recommended dose of empagliflozin is one 10 mg tablet once a day. If you have type 2 diabetes, your doctor will decide whether to increase your dose to 25 mg once a day to help control your blood sugar. If you have kidney problems, your doctor may limit your dose to 10 mg once a day.\n\nYour doctor will determine the right strength for you. Do not change your dose unless your doctor tells you to.",
+    "ans5.1": "Your doctor will determine the right strength for you. Do not change your dose unless your doctor tells you to.",
+    "q6": "How to take empagliflozin?",
+    "ans6": "- Swallow the tablet whole with water",
+    "l6": "- You can take the tablet with or without food",
+    "l6_1": "- You can take the tablet at any time of day. However, try to take it at the same time every day. This will help you remember to take it.",
+    "l6_2": "- If you have type 2 diabetes, your doctor may prescribe empagliflozin along with another diabetes medication. Remember to take all your medications as prescribed by your doctor to get the best results for your health.",
+    "l6_3": "- Proper diet and exercise help your body use its blood sugar better. It is important to stick to the diet and exercise program recommended by your doctor while you are taking empagliflozin.",
+    "q7": "What to do if you forget to take empagliflozin?",
+    "ans7": "- If it is 12 hours or more until your next dose, take empagliflozin as soon as you remember. Then take your next dose as usual.",
+    "ans7_1": "- If it is less than 12 hours until your next dose, skip the missed dose. Then take your next dose as usual.",
+    "ans7_2": "-Do not take a double dose of empagliflozin to make up for a forgotten dose.",
+    "q8": "What happens if you stop taking empagliflozin?",
+    "ans8": "Do not stop taking empagliflozin without talking to your doctor unless you suspect you have ketoacidosis (see “Ketoacidosis” under Warnings and precautions). If you have type 2 diabetes, your blood sugar levels may increase when you stop taking empagliflozin.",
+    "q9": "What are the possible side effects of empagliflozin?",
+    "ans9": "Like all medicines, this medicine can cause side effects, although not everybody gets them. Contact your doctor or nearest hospital immediately if you have any of the following side effects:",
+    "9.1": "Allergic reactions: - Severe allergic reactions, are uncommon (may affect up to 1 in 100 people): Possible symptoms of a severe allergic reaction may include: facial flushingswelling of the eyes, lips, mouth, tongue or throat which may cause difficulty breathing or swallowing)",
+    "9.2": "Ketoacidosis: Ketoacidosis, is uncommon (may affect up to 1 in 100 people): rapid weight loss, feeling sick or being sick, stomach pain, extreme thirst, fast and deep breathing, confusion, unusual sleepiness or tiredness, sweet smelling breath, sweet or metallic taste in your mouth or a different smell in your urine or sweat.",
+    "9.3": "Low sugar: - Low blood sugar (hypoglycaemia), is very common (may affect more than 1 in 10 people): If you take empagliflozin with another medicine that can cause low blood sugar, such as a sulphonylurea or insulin, you are at greater risk of getting low blood sugar. Symptoms of low blood sugar may include: shaking, sweating, feeling very anxious or confused, fast heartbeat, extreme hunger, headache",
+    "9.4": "UTI: - urinary tract infection, most commonly seen (may affect up to 1 in 10 people): Symptoms of a urinary tract infection are: burning when urinating, cloudy urine, pain in the pelvis or middle back (when the kidneys are infected). The urge to urinate or frequent urination may be due to the way empagliflozin works, but they can also be symptoms of a urinary tract infection. You should also contact your doctor if you notice an increase in such symptoms",
+    "9.5": "Dehydration:- Dehydration is very common (may affect more than 1 in 10 people): Symptoms of dehydration are not specific but may include: unusual thirst, dizziness or fainting on standing or loss of consciousness",
+    "q10": "Are there any foods, drinks or activities I should avoid?",
+    "ans10": "Limit alcohol consumption, as it may increase the risk of low blood sugar, especially if you are also taking insulin or other diabetes medications. Reducing high-sugar foods may help manage blood sugar more effectively.",
+    "q11": "What precautions should I take if I have kidney disease?",
+    "ans11": "Empagliflozin is not recommended for people with severe kidney impairment (eGFR ≥ 30 mL/min/1.73 m²). If you have kidney disease, your healthcare provider will evaluate your condition to determine if empagliflozin is appropriate for you.",
+    "q12": "How do I know if I have a urinary or genital infection, and what should I do?",
+    "ans12": "Symptoms of infection may include painful urination, itching, or abnormal discharge. If you have any of these symptoms, contact your doctor immediately for treatment",
+    "q13": "What medications may interact with empagliflozin?",
+    "ans13": "Diuretics, insulin, and sulfonylureas may increase the risk of dehydration or hypoglycemia when taken with empagliflozin. Inform your doctor about all medications and supplements you take to avoid potential interactions",
+    "q14": "Can empagliflozin cause low blood pressure, especially in older adults?",
+    "ans14": "Yes, especially in elderly patients or those taking diuretics. Monitor for symptoms such as dizziness or fainting. Staying hydrated while taking empagliflozin can help control blood pressure",
+    "q15": "Does empagliflozin cause weight loss and should I monitor my weight?",
+    "ans15": "Some people may experience slight weight loss as empagliflozin helps remove excess glucose. Keeping track of your weight can help track any unexpected changes",
+    "q16": "Should I stop taking empagliflozin before surgery or a medical procedure?",
+    "ans16": "It is important to consult your doctor, as empagliflozin may need to be stopped before surgery to reduce the risk of DKA. Follow their instructions closely",
+    "q17": "Can I use empagliflozin if I have type 1 diabetes?",
+    "ans17": "Empagliflozin is not approved for type 1 diabetes because of the high risk of diabetic ketoacidosis. It is only indicated for type 2 diabetes management",
+    "q18": "How often will my blood sugar and HbA1c levels need to be checked?",
+    "ans18": "Your doctor may check your HbA1c every 3 to 6 months to monitor long-term glucose control. Regular self-monitoring of blood sugar may also be needed, particularly if you are adjusting the dose",
+    "reference": "Reference",
+    "reference1": "Prescribing information Empagliflozin. Available here.",
+    "reference2": "Summary of product characteristics. Available here.",
+    "reference3": "Empagliflozin NHS. Available here."
+  },
+  "dietChart":{
+    "title":"View Diet Chart",
+    "Calories":"Calories"
+  }
+}
