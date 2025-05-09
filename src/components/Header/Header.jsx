@@ -7,7 +7,6 @@ import i18n from "i18next";
 
 const Header = () => {
   const { t } = useTranslation();
-
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const toggleMenu = () => {
@@ -27,8 +26,8 @@ const Header = () => {
               />
             </div>
           </div>
-          <div className="col-md-8 d-flex justify-content-end">
-            <nav className="navbar navbar-expand-lg">
+          <div className="col-md-8 d-flex flex-column flex-lg-row justify-content-end align-items-lg-center">
+            <nav className="navbar navbar-expand-lg w-100 w-lg-auto">
               <button
                 className="navbar-toggler"
                 type="button"
@@ -57,7 +56,8 @@ const Header = () => {
                       {t("nav.patientSupport")}
                     </Link>
                   </li>
-                  <li className="nav-item">
+                  {/* Show Medicine Availability in menu on large screens */}
+                  <li className="nav-item d-none d-lg-block">
                     <Link to="/Medicine" className="nav-link active">
                       {t("nav.medicineAvailability")}
                     </Link>
@@ -65,7 +65,16 @@ const Header = () => {
                 </ul>
               </div>
             </nav>
-            <div className="ms-3">
+
+            {/* Show Medicine Availability outside menu on small screens */}
+            <div className="mt-2 d-block d-lg-none">
+              <Link to="/Medicine" className="nav-link active text-bold px-2">
+                {t("nav.medicineAvailability")}
+              </Link>
+            </div>
+
+            {/* Language selector */}
+            <div className="mt-2 mt-lg-0 ms-lg-3">
               <select
                 className="form-select"
                 onChange={(e) => i18n.changeLanguage(e.target.value)}
